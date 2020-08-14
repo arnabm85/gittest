@@ -1,2 +1,1 @@
-this is my second commit
-and i love this gitea
+basch script is very nice to learn
